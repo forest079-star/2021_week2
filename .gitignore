@@ -1,9 +1,0 @@
-public
-node_modules
-.publish
-dist
-.vscode
-.DS_Store
-_mixin.scss
-_utils.scss
-_index2.scss
