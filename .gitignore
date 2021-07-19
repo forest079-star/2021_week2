@@ -4,3 +4,6 @@ node_modules
 dist
 .vscode
 .DS_Store
+_mixin.scss
+_utils.scss
+_index2.scss
